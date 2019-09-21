@@ -1,7 +1,7 @@
 ---
 name: Code issue
 about: Identify an issue with the source code for an example or exercise
-title: ''
+title: A concise summary of the issue should go here
 labels: ''
 assignees: ''
 
