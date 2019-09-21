@@ -6,6 +6,7 @@ Please read these guidelines to see how best to contribute to the book's success
 ## Source code issues
 
 If you've discovered an issue with the code in this repository, please [open an issue](https://github.com/daneah/practices-of-the-python-pro/issues/new/choose).
+Or, if you have time, please consider forking this repo and opening a pull request with the fix!
 
 ## Errata
 
