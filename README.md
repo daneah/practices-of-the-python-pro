@@ -1,8 +1,6 @@
 # Exercises for Practices of the Python Pro 🐍📘
 
-<div style="text-align: center;">
-    <img src="cover.png" width="500" alt="Practices of the Python Pro, a Manning book by Dane Hillard">
-</div>
+<img src="cover.png" width="500" alt="Practices of the Python Pro, a Manning book by Dane Hillard">
 
 This repository contains the source code for the examples and exercises contained in [Practices of the Python Pro](https://bit.ly/the-python-pro).
 The repository is a template repository, so if you'd like to follow along with the book you can [make your own copy](https://github.com/daneah/practices-of-the-python-pro/generate).
