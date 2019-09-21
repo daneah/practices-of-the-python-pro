@@ -1,4 +1,4 @@
-# Examples and Exercises for Practices of the Python Pro 🐍📘
+# Exercises for Practices of the Python Pro 🐍📘
 
 This repository contains the source code for the examples and exercises contained in [Practices of the Python Pro](https://bit.ly/the-python-pro).
 The repository is a template repository, so if you'd like to follow along with the book you can [make your own copy](https://github.com/daneah/practices-of-the-python-pro/generate).
