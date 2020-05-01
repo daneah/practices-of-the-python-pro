@@ -76,9 +76,11 @@ def join_names(names):  # <1>
     name_string = ''
 
     for index, name in enumerate(names):
+        if index > 0 and len(names) > 2:
+            name_string += ','
         if index > 0:
-            name_string += ', '
-        if index == len(names) - 1:
+            name_string += ' '
+        if index == len(names) - 1 and len(names) > 1:
             name_string += 'and '
         name_string += name
     return name_string

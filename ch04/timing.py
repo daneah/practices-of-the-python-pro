@@ -3,8 +3,8 @@ from timeit import timeit
 
 setup = 'from datetime import datetime'  # <1>
 statement = 'datetime.now()'  # <2>
-result = timeit(setup=setup, stmt=statement)  # <3>
-print(f'Took an average of {result}ms')
+result = timeit(setup=setup, stmt=statement, number=1_000)  # <3>
+print(f'Took an average of {result / 1_000}s, or {result}ms')
 
 
 # Functions that need to be profiled to compare their performance

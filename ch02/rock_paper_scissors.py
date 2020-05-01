@@ -46,7 +46,7 @@ def get_human_choice():
 
 
 def print_options():
-    print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS)))
+    print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS, 1)))
 
 
 def print_choices(human_choice, computer_choice):
@@ -96,7 +96,7 @@ def get_human_choice():
 
 
 def print_options():
-    print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS)))
+    print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS, 1)))
 
 
 def print_choices(human_choice, computer_choice):  # <2>
@@ -142,7 +142,7 @@ class RockPaperScissorsSimulator:
         return OPTIONS[choice_number - 1]
 
     def print_options(self):
-        print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS)))
+        print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS, 1)))
 
     def print_choices(self, human_choice, computer_choice):  # <2>
         print(f'You chose {human_choice}')
@@ -192,7 +192,7 @@ class RockPaperScissorsSimulator:
         self.human_choice = OPTIONS[choice_number - 1]
 
     def print_options(self):
-        print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS)))
+        print('\n'.join(f'({i}) {option.title()}' for i, option in enumerate(OPTIONS, 1)))
 
     def print_choices(self):  # <2>
         print(f'You chose {self.human_choice}')  # <3>
