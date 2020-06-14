@@ -15,3 +15,4 @@ Follow along in the book for more context!
 ## Errata and questions
 
 If you find an error in the code or the book, or if you have a question about the content, please read the [contribution guidelines](.github/CONTRIBUTING.md) to understand the best course of action.
+The errata are published on [the book's homepage](https://bit.ly/the-python-pro).
