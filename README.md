@@ -2,7 +2,7 @@
 
 <img src="cover.png" width="500" alt="Practices of the Python Pro, a Manning book by Dane Hillard">
 
-This repository contains the source code for the examples and exercises contained in [Practices of the Python Pro](https://bit.ly/the-python-pro).
+This repository contains the source code for the examples and exercises contained in [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro?utm_source=danehillard&utm_medium=affiliate&utm_campaign=book_hillard_practices_1_3_20).
 The repository is a template repository, so if you'd like to follow along with the book you can [make your own copy](https://github.com/daneah/practices-of-the-python-pro/generate).
 
 Each chapter's examples are in their own directory.
@@ -15,4 +15,4 @@ Follow along in the book for more context!
 ## Errata and questions
 
 If you find an error in the code or the book, or if you have a question about the content, please read the [contribution guidelines](.github/CONTRIBUTING.md) to understand the best course of action.
-The errata are published on [the book's homepage](https://bit.ly/the-python-pro).
+The errata are published on [the book's homepage](https://www.manning.com/books/practices-of-the-python-pro?utm_source=danehillard&utm_medium=affiliate&utm_campaign=book_hillard_practices_1_3_20).
